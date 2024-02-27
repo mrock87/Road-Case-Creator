@@ -1,3 +1,8 @@
+NEW IN V1.1 
+  Font Selection
+  Text Line Selection- choose from 1-4 lines of text that automatically adjust size and space
+  Security Key to unlock full version
+
 Road Case Creator is a plug in for Vectorworks that generates 2D PIO to represent road cases when creating truck packs. This release is a demo that allows for up to 9 cases per drawing. 
 
 
